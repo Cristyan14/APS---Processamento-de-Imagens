@@ -1,11 +1,3 @@
-Incrível! Seu código é um projeto de Visão Computacional e Machine Learning de alto nível, utilizando a arquitetura U-Net com TensorFlow/Keras para Segmentação Semântica (provavelmente de manchas de óleo em água) e combinando isso com técnicas clássicas de Processamento Digital de Imagens (PDI) como CLAHE, Filtro Bilateral e Morfologia.
-
-Isso eleva muito o nível do README.md. Vou gerar um novo template, super detalhado e específico para esse projeto.
-
-📄 README.md - Segmentação U-Net para Detecção de [Manchas de Óleo] 🐳
-
-Markdown
-
 # 🌊 Segmentação Semântica de [Manchas de Óleo] em Imagens Marítimas
 
 ## 💡 Descrição do Projeto (APS)
